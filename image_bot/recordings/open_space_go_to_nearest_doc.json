@@ -29,13 +29,28 @@
         "button": "d",
         "pos": null
     },
+        {
+        "time": 9.2728524208068848,
+        "type": "keyDown",
+        "button": "Key.cmd",
+        "pos": null
+    },
     {
-        "time": 15.347411870956421,
-        "type": "click",
-        "button": "Button.left",
-        "pos": [
-            1152.5546875,
-            1054.58984375
-        ]
+        "time": 10.3852601051330566,
+        "type": "keyDown",
+        "button": "Key.f1",
+        "pos": null
+    },
+    {
+        "time": 11.5007531642913818,
+        "type": "keyUp",
+        "button": "Key.f1",
+        "pos": null
+    },
+    {
+        "time": 12.5314223766326904,
+        "type": "keyUp",
+        "button": "Key.cmd",
+        "pos": null
     }
 ]

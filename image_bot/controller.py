@@ -2,7 +2,7 @@ from playback import initialize_pyautogui, countdown_timer, play_actions
 from time import sleep
 import pyautogui
 
-DELAY_BETWEEN_LOOPS = 30.00
+DELAY_BETWEEN_LOOPS = 20.00
 
 
 def main():
